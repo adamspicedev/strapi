@@ -15,23 +15,15 @@
     "name": {
       "type": "string"
     },
-    "image": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "price": {
       "type": "decimal"
     },
     "available": {
       "type": "boolean",
       "default": false
+    },
+    "url": {
+      "type": "richtext"
     }
   }
 }

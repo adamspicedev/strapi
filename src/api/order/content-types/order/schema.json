@@ -15,10 +15,11 @@
     "name": {
       "type": "string"
     },
+    "email": {
+      "type": "email"
+    },
     "products": {
-      "type": "component",
-      "repeatable": true,
-      "component": "orders.order-products"
+      "type": "json"
     }
   }
 }
