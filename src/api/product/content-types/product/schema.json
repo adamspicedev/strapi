@@ -24,6 +24,9 @@
     },
     "url": {
       "type": "richtext"
+    },
+    "stock": {
+      "type": "integer"
     }
   }
 }

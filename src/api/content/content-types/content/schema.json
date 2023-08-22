@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "contents",
+  "info": {
+    "singularName": "content",
+    "pluralName": "contents",
+    "displayName": "Content",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "site_header_text": {
+      "type": "richtext"
+    }
+  }
+}
