@@ -20,6 +20,11 @@
     },
     "products": {
       "type": "json"
+    },
+    "complete": {
+      "type": "boolean",
+      "default": false,
+      "required": false
     }
   }
 }
